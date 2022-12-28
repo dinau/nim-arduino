@@ -14,7 +14,7 @@ Arduino to PlatformIO:
 
 ```ini
 lib_deps =
-  https://github.com/markspanbroek/nim-arduino
+  https://github.com/dinau/nim-arduino
 ```
 
 Example
