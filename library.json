@@ -3,6 +3,6 @@
   "version": "0.3.0",
   "license": "MIT",
   "dependencies": {
-    "nim-platformio": "https://github.com/dinau/nim-platformio"
+    "nim-platformio": "https://github.com/dinau/nim-platformio#personal_branch"
   }
 }
